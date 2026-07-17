@@ -1,4 +1,0 @@
-Database IP: 192.168.1.105
-Admin user: root
-Password: password1234
-Note to self: CTF{0s1nt_4nd_g1t_c0mm1ts_n3v3r_f0rg3t}
